@@ -25,4 +25,14 @@ public class RESTAPITest {
 	{
 		System.out.println("deleteTwitter");	
 	}
+	@Test
+	public void deleteTwitteraaa()
+	{
+		System.out.println("deleteTwitter");	
+	}
+	@Test
+	public void deleteTwitterasdf()
+	{
+		System.out.println("deleteTwitter");	
+	}
 }
